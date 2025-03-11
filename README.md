@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## Name  : Kishor Kumar B.
-## RegNo : 212223240072
+### Name  : Kishor Kumar B.
+### RegNo : 212223240072
 
 ## Aim:
 
